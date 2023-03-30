@@ -11,4 +11,4 @@ This plugin uses BepInEx, to install it:
 
 3. Run the game and close it (or just create the plugins folder manually)
 
-4. Download the last release and put it in BepInEx/plugins folder
+4. Download the mod and place it in the BepInEx/plugins folder
