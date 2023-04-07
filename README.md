@@ -11,4 +11,4 @@ This plugin uses BepInEx, to install it:
 
 3. Run the game and close it (or just create the plugins folder manually)
 
-4. Download the mod and place it in the BepInEx/plugins folder
+4. Download the mod (https://github.com/radsi/PoP-CustomVillagers/releases) and place it in the BepInEx/plugins folder
